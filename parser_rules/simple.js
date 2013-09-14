@@ -11,6 +11,8 @@ var wysihtml5ParserRules = {
     strong: {},
     b:      {},
     i:      {},
+    sup:    {},
+    sub:    {},
     em:     {},
     br:     {},
     p:      {},
